@@ -9,12 +9,12 @@ bottom_screw_separation = 51
 bottom_screw_pitch = 12
 plate_thickness = 8.9
 hole_pitch = 30
-hole_diameter = 2.6
+hole_diameter = 3.6
 epsilon = 0.01
-tail_width = 10
-wall_thickness = 3
+tail_width = 6.5
+wall_thickness = 1.8
 
-hole_edge_spacing = plate_width - hole_pitch - hole_diameter
+hole_edge_spacing = 2.0
 adapter_width = plate_width + 2*wall_thickness + 2*tail_width
 adapter_height = plate_width + wall_thickness
 adapter_depth = bottom_screw_pitch + 5
